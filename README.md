@@ -4,8 +4,6 @@ im rowan
 
 typescript & c++ enjoyer
 
-i use arch and hyprland (i love making installing apps a challenge)
-
 heres my last.fm:
 
 <a href="https://last.fm/user/r0wanda">
